@@ -85,10 +85,6 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
-  text-align: center;
-}
-
 input[type="text"] {
   width: calc(100% - 80px);
   padding: 10px;
